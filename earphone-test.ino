@@ -1,6 +1,6 @@
 #include <Mouse.h>
 
-const int PIN_ANALOG_INPUT = 3; //赤をアナログの3に、オレンジをGNDに
+const int PIN_ANALOG_INPUT = 3; //イヤホンの赤(L)をアナログの3に、オレンジ(GND)をGNDに
 
 
 
